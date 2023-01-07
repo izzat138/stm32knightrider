@@ -20,9 +20,8 @@ stm32knightrider contains the project that use pins GPIOA-PIN0, GPIOA-PIN4, GPIO
 
 
 ## Hardware Requirements
-1. 1k ohm resistor - 8
-2. led - 8
-
+1. Leds - 8
+2. 1k ohm resistors - 8
 
 
 
