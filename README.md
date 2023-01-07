@@ -81,7 +81,16 @@ stm32knightrider contains the project that use pins GPIOA-PIN0, GPIOA-PIN4, GPIO
 <br/>
 
 
-7. STM32 ST-LINK Utility is utilized to program the SM32F103C8T6 MCU through an ST-LINK V2. The generated binary/hex files are opened through this application.
+7. Connect the STM32 with all the components as shown below
+
+![Semantic description of image](/image/schematic.png)
+
+
+<br/>
+<br/>
+
+
+8. STM32 ST-LINK Utility is utilized to program the SM32F103C8T6 MCU through an ST-LINK V2. The generated binary/hex files are opened through this application.
 
 ![Semantic description of image](/image/pic7.png)
 
@@ -90,7 +99,7 @@ stm32knightrider contains the project that use pins GPIOA-PIN0, GPIOA-PIN4, GPIO
 <br/>
 
 
-8. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU in the utility and start to program it.
+9. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU in the utility and start to program it.
 
 ![Semantic description of image](/image/pic8.png)
 
