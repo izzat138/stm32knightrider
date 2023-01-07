@@ -3,7 +3,7 @@ This repository documents the details of Knight Rider project on an STM32F103C8T
 
 We are required to program an STM32 MCU using open-source STM32CubeIDE in C language to implement the Knight Rider lights. A C code is included in this repository for reference.
 
-stm32knightrider contains the project that use pins GPIOA-PIN0, GPIOA-PIN4, GPIOA-PIN6, GPIOA-PIN7, GPIOB-PIN0, GPIOB-PIN1, GPIOB-PIN10 and GPIOB-PIN11 to light up the LEDs with the Knight Rider pattern.
+stm32knightrider contains the project that uses pins GPIOA-PIN0, GPIOA-PIN4, GPIOA-PIN6, GPIOA-PIN7, GPIOB-PIN0, GPIOB-PIN1, GPIOB-PIN10 and GPIOB-PIN11 to light up the LEDs with the Knight Rider pattern.
 
 
 
@@ -53,7 +53,7 @@ stm32knightrider contains the project that use pins GPIOA-PIN0, GPIOA-PIN4, GPIO
 <br/>
 
 
-4. Only a section of the generated code is modified. In this project, the executing loop is added with built-in functions to blink the LED on the MCU with 0.5 seconds interval. 
+4. Only a section of the generated code is modified. In this project, the executing loop is added with built-in functions to light up the LEDs with the Knight Rider pattern.
 
 ![Semantic description of image](/image/pic4.png)
 
