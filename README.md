@@ -20,8 +20,10 @@ stm32knightrider contains the project that uses pins GPIOA-PIN0, GPIOA-PIN4, GPI
 
 
 ## Hardware Requirements
-1. Leds - 8
-2. 1k ohm resistors - 8
+1. TM32F103C8T6 Board Blue Pill
+2. ST-Link V2 Programming Unit
+3. Leds - 8
+4. 1k ohm resistors - 8
 
 
 
@@ -111,7 +113,7 @@ stm32knightrider contains the project that uses pins GPIOA-PIN0, GPIOA-PIN4, GPI
 
 https://user-images.githubusercontent.com/106621749/203887910-23e8e2eb-df35-451b-80b0-0079ab214625.mp4
 
-*Youtube URL: https://youtu.be/yMYyeOzHdus*
+*Youtube URL: https://youtu.be/sDqwvIAOW5w*
 
 
 <br/>
