@@ -113,7 +113,7 @@ stm32knightrider contains the project that uses pins GPIOA-PIN0, GPIOA-PIN4, GPI
 
 https://user-images.githubusercontent.com/106621749/211195423-41841fcc-e696-4515-9111-a150be59eaf0.mp4
 
-*Youtube URL: https://youtu.be/sDqwvIAOW5w*
+*Youtube URL: https://www.youtube.com/watch?v=sDqwvIAOW5w*
 
 
 <br/>
